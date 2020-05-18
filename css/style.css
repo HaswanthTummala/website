@@ -1,0 +1,69 @@
+body { font: 400 1em/1.5 "Neuton"; background: #090d00; color: rgba(255,255,255,.25); text-align: center; margin: 0;
+    padding: 0;
+  }
+  
+  
+   
+  .TitleDiv{
+      text-align: center;
+      margin-top: 15%;
+  }
+  
+  .TitleText{
+      text-align: center;
+  
+  /* Clip Background Image */
+  
+        background: url(http://f.cl.ly/items/010q3E1u3p2Q0j1L1S1o/animated_text_fill.png) repeat-y;
+        -webkit-background-clip: text;
+        background-clip: text;
+  
+  /* Animate Background Image */
+  
+        -webkit-text-fill-color: transparent;
+        -webkit-animation: aitf 80s linear infinite;
+  
+  /* Activate hardware acceleration for smoother animations */
+  
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-backface-visibility: hidden;
+  
+    }
+  
+  
+  /* Animate Background Image */
+  
+  @-webkit-keyframes aitf {
+      0% { background-position: 0% 50%; }
+      100% { background-position: 100% 50%; }
+  }
+  .TitleSocialImages{
+      width: 40px;
+    height: 40px;
+    padding: 10px;
+    
+    
+  }
+  .TitleContacts{
+  margin-top: 5%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .EducationDiv{
+      margin-top: 5%;
+      
+  }
+  .SkillsDiv{
+      text-align: center;
+      margin-top: 5%;
+  }
+  
+  .ProjectsDiv{
+      margin-top: 5%;
+  }
+  .img-wrap{
+      width: 100%;
+  }
+  .img-wrap img{
+      width:70%;
+  
+  }
