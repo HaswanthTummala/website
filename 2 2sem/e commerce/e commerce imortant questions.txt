@@ -1,0 +1,19 @@
+1.	Explain Merchantile  process using Digital Cash  
+2.	Explain Merchantile model from the Merchants perceptive 
+3.	Give different ways by which EDI tan reduce the time and cost 
+4.	Explain the Interorganizational Ecommerce?
+5.	List the Advantages of EDI for international trade 
+6.	Explain the workflow management
+7.	Explain the problems with Vertical Organization 
+8.	Discuss about Epayment Systems in detail?
+9.	Explain the Horizontal Organizational Structure?
+10.	Write a short note on credit card, Debit cards ,smart cards?
+11.	Explain the supply chain management characteristics in electronic commerce 
+12.	Explain the primary models of supply chain management & their 3 primary elements 
+13.	What are VAN’s ?discuss about it?
+14.	Explain the operational risks and legal issues in e-cash. 
+15.	Explain the client-server architecture in E-Commerce. 
+16.	What is global marketing? Explain its charectaristics and advantages with disadvantages?
+17.	Write a short note on origin and future of E-commerce?
+18.	State the origin and growth of e-commerce? Also explain different types of ecommerce    
+19.	Explain the characteristics of online payment system? 
